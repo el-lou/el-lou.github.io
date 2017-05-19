@@ -126,12 +126,12 @@ aside {
 
 .last ul {
     text-align: center;
-    margin-bottom: 25px;
+    margin-bottom: 0px;
 }
 
 .last ul li {
     display: inline;
-    padding: 0px;
+    padding: 25px;
 }
 
 .last ul li .fa {
