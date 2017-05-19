@@ -127,9 +127,10 @@ aside {
 .last ul {
     text-align: center;
     margin-bottom: 0px;
+    padding: 0px;
 }
 
-.last ul li {
+.last li {
     display: inline;
     padding: 25px;
 }
