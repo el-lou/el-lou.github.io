@@ -54,6 +54,10 @@ body {
     max-width: 50px;
 }
 
+#bio h1{
+    color: #14ac00;
+}
+
 #intro {
     margin-bottom: 50px;
 }
